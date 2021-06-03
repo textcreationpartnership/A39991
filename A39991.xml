@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Looke not upon me, or, The churches request under sequestration presented in a sermon to all that pretend love to Sion by E.F. ...</title>
+            <author>Fornis, Edward.</author>
+         </titleStmt>
+         <extent>Approx. 69KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39991</idno><idno type="EEBO-CITATION">15359138</idno>
+  <idno type="VID">103488</idno>
+  <idno type="EEBO-PROQUEST">2264207220</idno>
+  
+            <idno type="STC">Wing F1588</idno>
+            <idno type="STC">ESTC R35533</idno>
+            <idno type="OCLC">15359138</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A39991)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103488)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1188:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Looke not upon me, or, The churches request under sequestration presented in a sermon to all that pretend love to Sion by E.F. ...</title>
+                  <author>Fornis, Edward.</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London?] printed :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Edward Fornis.</note>
+                  <note>Imperfect: print show-through, with loss of print.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+                  <note>Includes bibliographical references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Church and state --  Church of England.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103488:1"/>
+            <p>
+               <hi>Looke not upon me;</hi> OR, The CHURCHES Request under Sequestration, Presented in A SERMON To all that pretend love to <hi>Sion;</hi> by <hi>E. F.</hi> Master of Arts, and the true Vicar of <hi>Wisbeech,</hi> in the Isle of <hi>Ely,</hi> and County of <hi>Cambridge.</hi>
+            </p>
+            <q>Boni laborant, quia flagellantur ut filii; mali exultant, quia damnantur ut alieni. <bibl>
+                  <hi>Aug.</hi> in <hi>Psa. 33.</hi>
+               </bibl>
+            </q>
+            <p>Printed in the Yeere, 1648.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:103488:2"/>
+            <pb facs="tcp:103488:2"/>
+            <head>To the Worshipfull, and his singular good Friends, <hi>William Fisher,</hi> and <hi>Everard Buckworth</hi> Esquires Justices of the Peace, as also to his worthy Friend <hi>William Edwards</hi> Gentleman, with all the rest of his loving Friends, and de<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re Pari<g ref="char:EOLhyphen"/>shioners, the Inhabitants of <hi>Wisbeech: E. F.</hi> Wishes grace and peace here, and glory heereafter.</head>
+            <opener>
+               <salute>Honoured Gentlemen, and deare Friends:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat late learned Statesman Sr. <hi>Henry Wootton,</hi> or<g ref="char:EOLhyphen"/>dered that his Epitaph should be only this,
+<q>
+                  <l>Hic jacet hujus sententiae primus Author,<note place="margin">Buried in Eaton Col<g ref="char:EOLhyphen"/>ledge.</note>
+                  </l>
+                  <l>Disputandi pruritus, Scabies Ecclesiae.</l>
+               </q>
+            </p>
+            <p>I will change a word with him, and make another for our Common wealth now; <hi>Scribendi pruritus scabies reipublicae,</hi> never was the Presse so cloyd, and clog'd with Clients as now: some I thinke write more Pamphlets then they say Prayers; and yet among all, Sermons (I finde) are the last served: I have beene crowding for a place a long time (meerely for cheapenesse sake) to get these few leaves printed. It is a thing which I thought once I should never have pride enough to aspire, nor povrety enough to constrain me to, (for these two are the ordinary Loadsmen to those Paper mills) but the latter of them hath forced me. For thus the link hangs: Spare time (too much God knowes) bid me write relation said to <hi>Wisbeech;</hi> my Functi<g ref="char:EOLhyphen"/>on said a Sermon; thankfulnesse said to all; poverty my purse bearer cries (as the Disciples of the loaves) two hundred penny worth of pa<g ref="char:EOLhyphen"/>per will not suffice; necesssity (my counsell) saith print it, and the Printer again saith, let it be neither mine, nor thine, but divide it: So I
+<pb facs="tcp:103488:3"/> have my number to give, which I aymed at, and he his to sell (if Ser<g ref="char:EOLhyphen"/>mons will sell) which he aymes at. And new to whom should a suffe<g ref="char:EOLhyphen"/>ring Minister send a Sermon, but to his owne sympathiz<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng people? and whose names should I shelter it under (Noble Friends if not yours, who did not (though being men of interest you might like <hi>Nicodemus</hi> owne me by night only, but appeared for me, and with me in the heat of the day? St. <hi>Paul</hi> when he was to have a hearing, complaines that no man stood with him; but that which is sweeter to me then my losses can be bitter, is, that you (my Iudicious and godly Neighbours) and many more of that kinde Parish (even as many as were able to travell so many tedious miles) were not ashamed of me, and my cause; let the Lord at the day of true judgement, remember it, and requite you all. And it is your honour, and mine owne comfort, that they who were against me, had nothing against me, worthy of these sufferings. For my living, though I be thrust out of doores; yet I came in at the doore I thanke God, and not at the w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndow. For labours, I had not ten, or five, but that one Talent, or two which the Lord lent me, I did not wrap up in a napkin, but put them into the banke every Lords day. And for my life (Oh Lord forgive me my many sinnes!) It was farre from scandall, I blesse God though not free from offences d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yly. Twas (sure) for my Obedience to God and the King; and if for that, I would to God, not only I, but all that are Ministers were not only almost, but altogether so, except my persecutions. Gentlemen, and all my good Parishioners, I beseech you accept this little booke from me, and for my sake.</p>
+            <q>H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i mihi quod Domino non licet ire—</q>
+            <p>Reade it as the broken Meditations of your poore Pastor, and re<g ref="char:EOLhyphen"/>ceive as broken money from a poore debtor, who would doe more, if he had it. Exchange prayers with me, though absent from me, I for you, and you for me in the Lord, to whom I commend you all, and rest, &amp;c.</p>
+            <closer>
+               <signed>
+                  <hi>Your Servant in the Lord Jesus,</hi> Edward Fornis.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:103488:3"/>
+            <epigraph>
+               <q>Looke not upon mee, because I am Black, because the Sun hath looked upon mee; my mothers <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hildren were angry with me, they ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e me the Keeper of the Vineyards, but mine owne Vineyard I have not kept. <bibl>
+                     <hi>Canticles. 1.6.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE profound Prophet <hi>Ezekiel</hi> (chap. 47.) saw in a v<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>n waters running out of the Temple; healing waters all, but some an<g ref="char:EOLhyphen"/>cle deepe, some knee deepe,<note place="margin">Sic loqui<g ref="char:EOLhyphen"/>tur Scrip<g ref="char:EOLhyphen"/>tura ut al<g ref="char:EOLhyphen"/>titudine superbos irrideat, profundi<g ref="char:EOLhyphen"/>tate su<g ref="char:EOLhyphen"/>perbos terreat, virtute magnos pascat, af<g ref="char:EOLhyphen"/>fabilitate parvulos nutriot. Aug lib. 2. Gen. c. 19.</note> some to the loines, some to the neck, some over head and eares; and by interpretation, these wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers are the Scriptures, <hi>Dii caeptis;</hi> I am now leapt into the <hi>Elephants</hi> swimming pl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce, the <hi>Leviathans of Learning</hi> may take their pastime ther<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>Solomons Apocalypse,</hi> wherein are <hi>Riddles</hi> more knotty then <hi>Sampsons,</hi> but being dissolved, off<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d drops sweeter then his <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e. This is none of his <hi>Wall<g ref="char:EOLhyphen"/>hysope,</hi> but a <hi>Cedar</hi> of his L bano<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-like wisdome. O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all his trea<g ref="char:EOLhyphen"/>su<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e (vanished, as w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll as his Temple) nothing abides the tyran<g ref="char:EOLhyphen"/>ny of Time, but three little bookes, and they are enough t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> prove the Royall pen-man in glory, maugre the cavills of those who doubt and dispute otherwise: In <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s Proverbs he is an holy <hi>Politi<g ref="char:EOLhyphen"/>tian,</hi> in his Ecclesiastes an holy <hi>Preacher,</hi> and in this booke a <hi>Pro<g ref="char:EOLhyphen"/>phet,</hi> and an <hi>Heavenly Poet.</hi>
+            </p>
+            <q>
+               <l>Procul hinc, procul ite profani —</l>
+               <l>Na<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>citur Poeta:</l>
+            </q>
+            <p>His F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther was excellent at composing holy rap<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ures, and of<g ref="char:EOLhyphen"/>fering them to God upon we<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uments; but for ought I finde, the Sonne (as being a Prince of more peace) made more then the Father: A thousand and five are named upon record, but whether they were divine (as <hi>Davids</hi> were) I dare not say;<note place="margin">1. K. 4.32.</note> among them all, the Holy Ghost (who is the best Supervisor of Li<g ref="char:EOLhyphen"/>braries)
+<pb n="2" facs="tcp:103488:4"/> thought none fit to beare the Laurell but this, which weares on the head of it <hi>Cantica Canticorum;</hi> and this not being <hi>plaine song,</hi> but sublime and <hi>Sacramentall</hi> (as containing <hi>Arcana Christi &amp; Ecclesiae,</hi>) The Jewes commanded not to be tuned by <hi>yong voyces,</hi> I meane, none under the yeeres of thirty might looke in it,<note place="margin">Pingue duos an<g ref="char:EOLhyphen"/>gues pue<g ref="char:EOLhyphen"/>ri, sacer est locus Persius.</note> or reade it, least (their thoughts not being seasoned with the salt of holy gravity) they should take advantage by the literall sence, to prophane this <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (as St. <hi>Paul</hi> calls it) of the marriage betwixt Christ and the Church. And though I doe wil<g ref="char:EOLhyphen"/>lingly vote with my betters, that this was curiosity without war<g ref="char:EOLhyphen"/>rant in the Jewes; and I blesse God for English Bibles, and the plenty of them (pitty there should be a man, of whom it can be said, <hi>non legit,</hi> nay, <hi>non intelligit</hi>) yet certainely there are <hi>Labyrinths</hi> in the Scriptures, for which every one hath not a <hi>clue:</hi> Let him that readeth understand. None shall be found worthy (Rev. 5 7.) to sing the Lambs song, but his owne Choristers; so, none can in a spirituall manner sing this song of my beloved touc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing his Vineyard,<note place="margin">Es. 5.1.</note> but they who have tasted the wine of the true Vine. <hi>John</hi> 15.1.</p>
+            <p>I intend not a Treatise, but a Sermon (and I would be read as well as heard by an houre-glasse) therefore I shall not go downe into the field of Expositors, to gleane after t em in their various bindings up of these sheaves: Allegori<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s are m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st subj<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct to the fancy of every W<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iter, and every one subject <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>und in his owne sence, and every sence to be the owners <hi>Diana;</hi> But in this all agree, that this booke is an Epithilamium or marriage Hymne, concerning, and betweene Christ and <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Sp<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>se the Church: And it is sung in three parts: The Bridegro<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s Base, the Brides Treble, and now and then the children of the B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ide-chamber (called heere the Daughters of Jerusalem) being the <hi>Chorus,</hi> put in their meane. The Spouse leads the way<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and begins in this first Chapter, breaking forth some<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hing abruptly, and as one taken unawarres with an holy ravishment.</p>
+            <p>To bring you from the top, to the Text briefely, and the better; imagine, you saw her (like <hi>Mary</hi> at the Sepulcher weeping, and with those teares blear-eyed like <hi>Leah</hi>) standing in a very pensive posture, her haire, (like <hi>Mephibosheths</hi> Loyall slovennesse in his
+<pb n="3" facs="tcp:103488:4"/> head and beard) loose, and unkemmed, her garments poore and untrimmed, her beautiful<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oes pulled up from her feet, and modest v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ile from her head. Jewells, Bracelets, Ornaments plundred and all gon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; and lastl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) her faire face (the glory of h r pers<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n) <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ied, taw<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, and Sun-burnt; withall, before you begin <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o reade the C apter, suppose at two severall doores her onely bel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ved, and a company of friends (little better then Stranger<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) comming in; she es<g ref="char:EOLhyphen"/>pies them both; but him first (f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r <hi>ubi amor ibi oculus</hi>) and resolves to salu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e both; but in a holy ravishment as being sick of love, she runs and cries <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut as she runs <hi>osculetur me osculis,</hi> Oh my Lord receive me wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h more intimate embra<g ref="char:EOLhyphen"/>ces: Not thy hands, or thy feet, which yet I am not wor<g ref="char:EOLhyphen"/>thy, but thy lips, thy m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h Lord! &amp;c.</p>
+            <p>Then presently, as j<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alous those standers by, being Vir<g ref="char:EOLhyphen"/>gins themselves, might (seeing her present meanesse, and outward deformities especially) censure her, if not cry out of her for too much impudence; she steps to them and (as one that longed to go back to her discours<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with Christ againe) in an Ap<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>strophe of two verses only the 6. and 7. salutes them, giving them (as <hi>Job</hi> doth of himselfe, being a pearle still, though on a dunghill, cha. 29) a modest, yet state<g ref="char:EOLhyphen"/>ly character of her person, and boasti g (as St. <hi>Paul</hi> of his infirmities) of her afflictions, she answeres the ob<g ref="char:EOLhyphen"/>jections which they seemed to speake with their eyes to this purpose.</p>
+            <p>
+               <q>'Tis true (Ladies) you have seene and heard that at which y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rvell:<note place="margin">The Spouses speech to the Virgins.</note> Well may you wonder that a Virgine should wooe, and contrary to civillity and cu<g ref="char:EOLhyphen"/>stome runne after, and cry out for a Lovers embraces; bu more wond<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r at the m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tch, that such a faire, rich, no<g ref="char:EOLhyphen"/>ble, divine Lord sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d cast an eye, much lesse himselfe, and all he ha h away upon me, in whom you see so lit<g ref="char:EOLhyphen"/>tle of allurement, and so much of am<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ment; that I whose black and pale lips should talke of a Funerall ra<g ref="char:EOLhyphen"/>th r then a Wedding, should utter what you have heard: But know (my Friends) that I know my selfe, and he
+<pb n="4" facs="tcp:103488:5"/> (whom my soule loves) knowes me, but yee doe not; he will embrace me with my black maske of miseries on, for his love lies more then skin-deepe, and I, though I be now low and meane, tanned and disguised, abused and turned out of all by mine owne Kindred, yet am the Kings Daughter all glorious within: my outside is but black haire-cloth like <hi>Keders</hi> Tents, but my soule is come<g ref="char:EOLhyphen"/>ly, and rich as <hi>Solomons</hi> curtaines, <hi>ne expectetis (ergo) me, quia nigra sum &amp;c.</hi>
+               </q>
+            </p>
+            <p>In which words wee have an umbraticall, and a sub<g ref="char:EOLhyphen"/>stantiall sence. In the first, behold (as it were) a chast, comely, sweete woman, making her complaint to her Lo<g ref="char:EOLhyphen"/>vers and acquaintance, of the wrong and violence done to her by some of her Kindred, from whom sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> looked for better usage &amp;c. and begging of them to thinke neere the worse of her, for her present poore condition. In th se<g ref="char:EOLhyphen"/>cond, behold (indeed) the Church Militant declaring her afflictions to be the more black and formidable, beca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se layd upon her by those who are seeming brethren, &amp;<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>The Text in the Logick of it lies thus. Here are two Generall Parts.
+<list>
+                  <item>A Civil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Req<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>est.</item>
+                  <item>A Sad Relation.</item>
+               </list> In the first wee may take no<g ref="char:EOLhyphen"/>tice of these three things.
+<list>
+                  <item>1. Her case confessed, <hi>I am black.</hi>
+                  </item>
+                  <item>2. The supreme cause of that case, <hi>The Sun, &amp;c.</hi>
+                  </item>
+                  <item>3. The Request from thence, <hi>Looke not &amp;c.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>In the second wee have also three parts. First, the Of<g ref="char:EOLhyphen"/>fendors discovered, <hi>My Mothers Children.</hi> Secondly, the ground of the wrong they did to her, <hi>Their anger, Excandu<g ref="char:EOLhyphen"/>erunt.</hi> Thirdly, the effects of their wrath, and that two fold.</p>
+            <list>
+               <item>1. Sequestration.</item>
+               <item>2. Subjugation.</item>
+            </list>
+            <p n="1">1. Sequestration, And that as rigid as might be, Being
+<list>
+                  <item>
+                     <hi>Ab Officio,</hi> and — <hi>Ab Officio non Custodivi,</hi>
+                  </item>
+                  <item>
+                     <hi>A Beneficio, A Beneficio.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>For it was <hi>a Vineyard:</hi> And who keepes a Vineyard, and eateth not of the fruit thereof? 2. Subjugation, <hi>posue<g ref="char:EOLhyphen"/>runt me &amp;c.</hi> They put me to a low, slavish, miserable way
+<pb n="5" facs="tcp:103488:5"/> of getting my livelihood; so the sence of the phrase <hi>Kee<g ref="char:EOLhyphen"/>ping of Vineyards,</hi> is rendred by the learned, and by the Scrip<g ref="char:EOLhyphen"/>ture it selfe, as appeares in 2 King. 25.12. in the captivity of Babylon the poore and base people of the Land were left to be their Vine-dressers and Husbandmen, and God promiseth, Esay. 61.5. that the Church should have Sonnes of the Alien to be her Plowmen and Vine-dressers.</p>
+            <p>These are the parts both generall, and speciall: I shall be<g ref="char:EOLhyphen"/>gin with the first, and therein take her at her word in the Text, <hi>habemus confitentem ream,</hi> and heerein dispatch foure things. 1. Examine what she meanes by <hi>black.</hi> 2. En<g ref="char:EOLhyphen"/>quire how she comes so. 3. Why she would not be <hi>look't at;</hi> and lastly, apply all as safely as bad times will give leave.</p>
+            <p>
+               <hi>Black.]</hi> Sables ever went in the Heraulds Office for a Mourners coate; Or and Argent were for the rich and ho<g ref="char:EOLhyphen"/>nourable: In the Scripture wee finde white to be the co<g ref="char:EOLhyphen"/>lour of Princes, Judges, Conquerors, crowned Virgins, bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>black</hi> (God helpe the coat) being contrary, signified contraries, and was the hue of one under deepe afflictions; sometimes, of one sick and languishing under noisome di<g ref="char:EOLhyphen"/>seases: So <hi>Job</hi> look't, Job 30.30. My skin is black upon me, and my bones are burnt with heat: Sometimes, of one starved, and pined away with Famine; so the religi<g ref="char:EOLhyphen"/>ous <hi>Nazarites</hi> who (as Jer. 5.) being white as snow, and whiter then milke, more ruddy then Rubies, and smoother then polished Saphires, had their visage blacker then a coale &amp;c. Lam. 4.7.8. Sometimes, sadnesse and true Sym<g ref="char:EOLhyphen"/>pathy for others calamities hath not only put men into black cloaths, but into a melancholy countenance: True sorrow makes the heart, the heart the bloud, and the bloud makes the face a Mourner; thus <hi>Jeremy</hi> himselfe had a black visage; for the hurt of the Daughter of my people I am hurt, <hi>I am black,</hi> Jer. 8.21. Three Expositions (and all sound and proper enough) Divines give me warrant for, concerning the Churches blacknes; I shall speake to them in order.</p>
+            <p n="1">
+               <pb n="6" facs="tcp:103488:6"/>1. <hi>Nigrasum.]</hi> I am a woman of many infirmities, which fully and soyle me,<note place="margin">Sin.</note> of many sinnes which defile and foile me.<note place="margin">Sin.</note> And in this sence she saith truth, she were not a wo<g ref="char:EOLhyphen"/>man else, nor the Virgine <hi>Mary</hi> neither, though the Pa<g ref="char:EOLhyphen"/>pist off rs himselfe her compur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ator from even O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iginall sinne, and Gunpowder <hi>Garnet</hi> at Tyburne; for one <hi>mise<g ref="char:EOLhyphen"/>rere Domine,</hi>
+               <note place="margin">The relation of his triall, and death.</note> had his dou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le <hi>Mater Dei &amp;c.</hi> No, let God be true, and all men lyars; there is not one that do<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h good, no not one, and in many things wee off<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd all; all singly, and all altogether. That soule, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or that Church of soules (if they were bodies) who s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y they have no si<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne, deceive themselves, and dare not looke in the true gl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sse of Gods word, for that discovers spo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s in the fairest face. The Papist would be loth to thinke any other, bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Spouse in the Canticles, may serve for their Mother: N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w I finde that Christ (who in that booke courts her, and ad<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ires her) in one verse (chap. 6.10.) gives her foure charact<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs to<g ref="char:EOLhyphen"/>gether, and in none, innocency and infallibility, who is she that looketh forth as the <hi>Mo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ning;</hi> the morning (<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ud<g ref="char:EOLhyphen"/>die as she lookes) blushes at h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r night-cap of cloudes in which the Sun spies he<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; <hi>faire as the Moone,</hi> and is not the Moone clogged with an inmate cloud? Doth she not looke pale, wan, faint, and change of e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>? <hi>Cleare as the Sun;</hi> can more be said of a creatu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e? Yet the Sun <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath Ecclipses: and lastly, <hi>Terrible as an Army with Banners.</hi> An Army with Banners may have the black colours, and no Regiment of Saints Militant can weare a milke white feather, but must have a tip of staine: Sure therefore the Whore of Rome paints too much. The most g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orious fea<g ref="char:EOLhyphen"/>thers are borne upon black feete: Shal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I repeat you some of their pride and blasphemy? I am almost afraid to say it after them. They doe arrest the Almighty of an action of debt for wages, even as much as Heaven comes to. <q>
+                  <hi>It is most cleare</hi> (say the Rhemish Divines in their notes upon Heb. 6.10.) That our good workes be meritorious, and the very cause of salvation, so farre that God should be unjust if he rendred not Heaven for the same. Nay, the
+<pb n="7" facs="tcp:103488:6"/> just mans workes doe merit eternall life, not only because of Gods Covenant of grace mercifully to accept them, but because of the workes themselves; and our good workes are equall and proportionable to eternall life,</q> saith boasting <hi>Bellarmine.</hi> Yea <hi>Vasquez</hi> the Jesuit with them in the Gospel smites Christ himselfe, for which God shall smite him a whited wall. <q>Our good workes (saith he) doe more for us, then Christ is able to doe, for they make us formally righteous, and worthy of life, but Christ on<g ref="char:EOLhyphen"/>ly by imputation.</q> But what neede I go to Tiber for such Swannes, when our owne Thames will afford as some of their brood, though hatcht by a fowle of another name, the Anabaptist? Scarce a Sunday (if you lived where I doe) but I can have you to a prayer, where the good man (for so his Disciples call him, though Christ said otherwise) stands up with the Pharisee,<note place="margin">Non dolere, qui peccaveris, magis indig<g ref="char:EOLhyphen"/>nari at{que} irasci facis Deum, quàm illud peccatum, quod antè per<g ref="char:EOLhyphen"/>petraveram. Chrysost. in Math.</note>
+               <hi>Lord I thanke thee I am not like other men</hi> (he saieth truer then he is aware) drunkards, swearers, &amp;c. Cries loud for daily bread, bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not a word of <hi>forgive us our trespasses, as wee forgive &amp;c.</hi> No sorrow, no confessi<g ref="char:EOLhyphen"/>on, no smiting on the thigh, or the brest, no crying <hi>I am black:</hi> And then for preaching, O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my soule! How are people pillowed! <q>God sees no sinne in you, lookes for no sor<g ref="char:EOLhyphen"/>row from you. The Law? away with it, what is the old Testament, that it should command us? To your Tents O Israel, wee have no portion in <hi>Moses &amp;c.</hi> Yee disho<g ref="char:EOLhyphen"/>nour free grace, God lookes for no confession &amp;c.</q> No friend (thinke I?) He did from <hi>Job, David, Mary Mag<g ref="char:EOLhyphen"/>dalen, Peter, Paul?</hi> Till now, the Saints in all ages when they have spoke of their white, Oh what extenuations, what am I, saith one? I am a worme saith a second; a dead dog saith a third; lesse then the least of all thy mercies a fourth; but when they speake of their <hi>black,</hi> Oh then! all aggravations are brought in, they weigh sinne with the graines of all circumstances, so foolish was I, and a very beast before thee saith one, and he a King; when thy ser<g ref="char:EOLhyphen"/>vant <hi>Steven</hi> was stoned, I held the clothes of them, who did it, saith another. Indeed St. <hi>Pauls Motto</hi> by his owne
+<pb n="8" facs="tcp:103488:7"/> consent to all ages, should have beene, <hi>Apostolorum mini<g ref="char:EOLhyphen"/>mus, Peccatorum maximus;</hi> see how he hides his <hi>Lawne,</hi> and showes his <hi>Cipres:</hi> Surely our Saints are <hi>Antipodes</hi> to those P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>imitive Professors, by their contrary walking; had they the spirit indeed, they would fight against the flesh, and cry for ayd to Heaven, and when they were worsted, and led captive, mourne; and that leades mee to a second rea<g ref="char:EOLhyphen"/>ding.</p>
+            <p n="2">2. <hi>Nigrasum.]</hi>
+               <q>I go mourning and in heavinesse, sad I am and sorrowfull because of my sinnes,<note place="margin">Sorrow.</note> and those reliques of nature which remaine in me, if I were once through<g ref="char:EOLhyphen"/>ly sanctified; If I could quite cast off this speckled skin of the old <hi>Adam,</hi> I would no more m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urne, but put on my wedding garment of joy for the spirit of heavinesse; but Ah wretch that I am, I finde a Law in my m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mbers rebelling against the Law of my minde, and the evill I would not doe, that doe I, and therefore wonder not if my face (which is <hi>Index animi</hi>) weare the livery of my captivity, and I (with <hi>Joseph</hi> under age) go in a party-coloured coat of white and black, joy checkred with griefe, hope woven with feare: My beloved (and he only) is white and red, altogether lovely: But I, at least am but white and black: Whi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e I am, and so he made me, but black still, for so I smu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch my selfe daily. And it is with me and my sinnes (poore soule) as with the feathers upon birds, cut them, they grow, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urne them, they grow, pull them out, still they grow againe; but when the bird dies, then, and not till then, will they cease to grow; till therefore this corruptible, shall have put on incorruption, I must goe mourning, and not pu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> off my black; and in this sene she speakes the truth also. Sion was never without mourners,<note place="margin">Lachrymas Pe<g ref="char:EOLunhyphen"/>tri lego, satis<g ref="char:EOLhyphen"/>factionem non lego; sed quod defendi non potest, ablu potest. Ambro. Sup. Luc. l. 9.</note> nor the Church o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God <hi>be<g ref="char:EOLhyphen"/>yond</hi> repentance.</q>
+               <hi>Lachrymae</hi> is a le<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on never out of tune. Christ dyed to take off my <hi>sufferings,</hi> but to encrease my <hi>sorrowes;</hi> so it is written, <hi>They shall looke upon him they have pierced &amp;c.</hi> and indeede it is hard, if I canno<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> afford <hi>water</hi> for <hi>bloud.</hi> Sinne (even since damnation, for it was taken
+<pb n="9" facs="tcp:103488:7"/> off) is in the eyes of the godly, as <hi>fitly</hi> as ever, as <hi>illegall</hi> as ever, as <hi>unnaturall</hi> (and more) as ever, and as <hi>sinfull</hi> as ever; and shall I looke upon it with dry eyes? <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Yet (mistake me not) we weep not, to wash out Ethiop<g ref="char:EOLhyphen"/>spots with our owne teares (our water will beare no such sope) No, we weepe at his feet, the blood of whose head and heart could onely make us cleane: We repent (not to be forgiven) but because forgiven, and yet running on the score afresh. Thus <hi>Mary</hi> wept much, because shee loved much, and shee loved much, because much was forgiven her. Oh, love of God,<note place="margin">Gen. 26.</note> and sence of our owne unworthinesse will make even a <hi>Rheoboth</hi> in a religious heart. The wicked make a mocke at sinne, and cry Ha, ha; but the holy man findes it a burthen so heavy, that it presseth out liquor, and makes him roare as <hi>David</hi> did for disquietnesse. The plaister of sorrow will not fall off (oh let us not pull it off) till the infection of sinne be quite drawne away,<note place="margin">Mat. 5.</note> which must not bee here while wee are in <hi>Bochem.</hi> Blessed are they that thus mourne, for they shall be comforted, and so I have done with the second sense.</p>
+            <p n="3">3. <hi>Nigra sum]</hi> I am blacke with lying among the Bricks and the pots of Egypt; with crosses, poverty, persecution,<note place="margin">Sufferings.</note> famines, and Warres; my Sonnes are slaine and my Vir<g ref="char:EOLhyphen"/>gins deflowred — <hi>Quis talia fando Mermydonum Do<g ref="char:EOLhyphen"/>lopumve?</hi> &amp;c. And this I judge to bee the most Genuine reading, being the complaint of the distressed and disper<g ref="char:EOLhyphen"/>sed, afflicted and abused Church, turn'd out, persecuted, and Sun-burnt, as shee saith here; for that phrase (in the sixt of Matthew) of the Sun scorching the seed, &amp;c. is construed by Christ himselfe, to be persecution of the pro<g ref="char:EOLhyphen"/>fessors for the Words sake. In the proving the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of this plaine point, that Gods people are alwayes a persecuted people: I will not hold a candle to the Sun,<note place="margin">Deus unum habuit Filium sine peccato, nullum sine Flagello. Bern.</note> nor so much as send out the Jury to finde it, there are such a cloud of witnesses in the Scriptures and Ecclesiasticall histories. The red Dragon will lye in waite to destroy, so long as the woman is in travell or teeming. Take single Saints or col<g ref="char:EOLhyphen"/>lective
+<pb n="10" facs="tcp:103488:8"/> Churches among the Jewes, or the Gentiles, before Christ, or since, and if you finde they be alwayes well-fa<g ref="char:EOLhyphen"/>voured and ruddie like <hi>David,</hi> and have not their Agues (Quartans, if not Quotidians) and Feavor-spots, then read mee no further, or beleeve not what you have read already. Nay, whoever reads this (if hee be a true son of this black woman and no Bastard) either hath beene or must looke to bee smutcht with slanders, or dirted with disgraces, or blackt with sicknesse, sooted with the smoak, it may be scortcht with the flames of persecution for con<g ref="char:EOLhyphen"/>science sake.</p>
+            <p>Let us therefore passe by the <hi>Quod sit,</hi> and peruse the <hi>Quomodo sit,</hi>
+               <note place="margin">22. pars pri<g ref="char:EOLhyphen"/>mae.</note> how shee comes so, and leaving her a while mourning, let us make out our Hue and Cry who hath done this wrong. And behold, she points to him, he is one out of our reach, and above our power to examine, <hi>quia sol a<g ref="char:EOLhyphen"/>spexit me.</hi> And herein two things are remarkable.</p>
+            <p n="1">1. This Eagle-eyed Spouse (though in their place shee name the instruments of her sufferings) first humbly owns God in her afflictions:<note place="margin">Amos. 3.5.</note> Is there evill in the City, and I have not done it, saith the Lord? Her mothers sonnes were the rods, but the hand was Gods: for so is meant by the Sun in the Text. <hi>Divinitùs haec inflicta sunt mihi, nihil hic fortu<g ref="char:EOLhyphen"/>itum,</hi>
+               <note place="margin">Brightman in locum.</note> &amp;c. She saith not with the Patriarchs of Joseph, <hi>Some evill beast hath done this;</hi> but with <hi>Pharoahs</hi> Wizards of the Lice, <hi>Digitus Dei est hic.</hi> A divine hand hath pleased thus to touch me. <hi>Sol aspexit.</hi> No creature so excellent to ex<g ref="char:EOLhyphen"/>presse God by in his operations and dealings in the World, as the glorious Sun, and that hath made it such an Idoll as it is in many places unto this day. Shall I name a very few? The Sun gives light to the Planets above him as well as be<g ref="char:EOLhyphen"/>low: and God is he that gives Being to Angels as well as inferiour creatures. The Sunne is the naturall fountaine of life, light, and heat; God the supernaturall, in whom we live, move, and have our being. The Sun is the search<g ref="char:EOLhyphen"/>er of things hid in darknesse; and God is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the firmament of his omniscience; the day and the night
+<pb n="11" facs="tcp:103488:8"/> are all alike unto him; sooner mayst thou with thy short arme, and weake hand, pull that eye of heaven out of his orbe, then remove Gods from thy reynes. The Sun shines on gardens, and they smell sweet, on dunghills with the same beames, and they returne a stinke: and God is good to all, the holy receive mercy, and give forth the savour of praise; but the wicked turne grace into wantonnesse: what should I multiply allusions further? the Sunne arises upon Sodom, and it burnes; darts on <hi>Jonas</hi> and he saints; scorches the harvest and it dyes; parches the earth and it gapes for fresh ayre, dryes up the Rivers and they fayle; and God our God, who is the sunne of that sunne, and can onely command him, doth all these things and the Sun is but his shadow.</p>
+            <p>The word <hi>Aspexit</hi> speakes this to be easie to God. 'Tis no more but <hi>looking,</hi> and the stoutest Cedars tremble: See<g ref="char:EOLhyphen"/>ing, speaking, touching, are actions which imply ease: Touch the mountaines and they smoake; <hi>Moses</hi> was faine to smite the Rock, but it was Gods looking on that dissol<g ref="char:EOLhyphen"/>ved it. The voice of the Lord divides the flames of fire, &amp;c. <hi>Dixit &amp; factum est,</hi> he did speake, and it was done. Men in even small matters toyle all night (as <hi>Peter</hi> saith) and take nothing; they sweat and dig, and moile,<note place="margin">Luke 5.</note> and yet are but in the beginning: Master say they in the Gospell to Al<g ref="char:EOLhyphen"/>mighty Christ, we came to thy Disciples to cast him out, and they could not; stand by yee Fumblers saith hee, and doth it, <hi>ictu oculi:</hi> Oh, it is no more to God to scortch men, Angels, Churches, Kingdomes, and to melt them, then to looke. <hi>Mare vidit id &amp; fugit,</hi> what <hi>id,</hi> but Gods presence and power? who can dry up the deep, and put a hooke into the nose of the unruly Ocean, and say, Thus far, and no further: 'Twas not then any Culinary smoake, any di<g ref="char:EOLhyphen"/>stempered ayre, any blasts of lightnings, any malignant influence, or malevolent aspect of inferiour planets, that the Church looks on, as able to have blackt her, if the Sun had not done it. Men talke of lucke, and fortune, and chance, either fearing or worshipping and adoring pre<g ref="char:EOLhyphen"/>vailing
+<pb n="12" facs="tcp:103488:9"/> parties; as if <hi>Shimei</hi> could curse his King, or touch the Lords Annoynted without Gods le<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve: The Lord (saith <hi>David</hi>) hath bid <hi>(i. e.)</hi> suffered <hi>Shimei</hi> to curse me. We say in the Orthodox points of God, <hi>Providentia divina contingit ad minutissima,</hi> and the Creatures are but dead instruments in his hand,<note place="margin">Jer. 2.13.</note> broken Cisterns, as <hi>Jeremie</hi> calls them, and there is not much comfort in those words: Ci<g ref="char:EOLhyphen"/>sterne, and broken too? <hi>ò quantum est in rebus inane!</hi>
+            </p>
+            <p>It is written of the Eagle that when shee hath hatcht her young ones, to try whether they be birds of her owne Egges, and not bastards, she carries them in her talans up into the Skie, holding their eyes to the Sunne in his heate and brightnesse; if they dare behold him, well; if not she lets them fall and perish, as not hers: Oh tis rare and re<g ref="char:EOLhyphen"/>ligious to worke up our eyes (like our mother in the Text) heaven-ward in all our sufferings, and mounting with the Larke, to sing as we soare; <hi>Deus dedit, &amp; Deus abstulit, benedicatur nomen Domini.</hi> And let loosers in England (though they have leave to speake) speake well of God, who for our sinnes hath humbled us, and (which is worse) his Annoynted, the breath of our nostrills. I will end this with that of <hi>Austen, Deus aliquando obscurus est in judiciis, nunquam injustus.</hi> God is the Sunne, who if hee should, not onely black us, but burne us to ashes, hath a Soveraignty over us; his wayes are past finding out. Yet secondly,</p>
+            <p n="2">2. The word <hi>Aspexit</hi> hath an eye of mercy in it, as well as fury, brightnesse as well as blacknesse; blessed be God it is at the worst, but <hi>Aspexit,</hi> it is but an angry Looke: A looke is as easily and as soone taken off, or changed, as set on. For a moment he may bee angry, but (let sufferers read and rejoyce) in a moment hee can change his face, and make the bones which he hath bro<g ref="char:EOLhyphen"/>ken to rejoyce;<note place="margin">Psal. 51.8.</note> his wrath endures but the twinckling of an eye, and though heavinesse may endure for a night (and the longest coldest night is but a night) yet joy comes in the morning. Lift up your heads, ye captived, prisoned,
+<pb n="13" facs="tcp:103488:9"/> plundred, sequestred, banish't, Sonne of this black Mother,<note place="margin">In vitâ Jew<g ref="char:EOLhyphen"/>elli.</note>
+               <hi>Haec non durabunt aetatem</hi> (as Bishop <hi>Jewell</hi> said in the l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke case) 'tis too hott to hold, as the crackling of Thornes under the pott, so shall hee make them in time of his hott displeasure. The Lord who hath looked on his Church and shee was troubled, will ere long say of her under her cruell Taskmasters, I have seene the affliction of my people: Even so Lord, lift thou up the light of thy countenance upon us, and we shall be whole. And so I come to the third thing in the first generall. <hi>Ne spectetis me, quia, &amp;c.</hi> Looke not upon mee;<note place="margin">3. <hi>Part.</hi>
+               </note> those are all her re<g ref="char:EOLhyphen"/>quest in the letter, but I dare venture to speake her minde further, and in foure particulars to bee her In<g ref="char:EOLhyphen"/>terpreter.</p>
+            <p n="1">1. <hi>Looke not upon me]</hi> that is, Be not amazed, or asto<g ref="char:EOLhyphen"/>nisht, as if some new thing and strange had happened to me; Yee daughters of Jerusalem, you are but young Chri<g ref="char:EOLhyphen"/>stians, and not knowing the wayes of the Lord, may star<g ref="char:EOLhyphen"/>tle at this sad sight, to see me thus used, and God looking on, nay laying on himselfe, and so like those faint hearted people, who mad<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a halt when they saw <hi>Amasa</hi> lye slaine before them, or like those cowardly Spies, who brought an ill report upon the land of Canaan; you may retreate from the good cause you have listed your selves in; but be not out of heart, for this is the Method of the Churches march through many tribulations to enter, &amp;c.<note place="margin">Acts. 14.22.</note> Excellent Counsell this and worthy of acceptation. Good men are not so much sensible of what they suffer themselves, as fearefull and jealous over others with a godly jealousie, lest they should by their sufferings be dismaid. And sure feare of persecution (a base feare which God hates) made men at first fight for their Religion,<note place="margin">Ecclesia Or<g ref="char:EOLhyphen"/>thodoxa ho<g ref="char:EOLhyphen"/>mines p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rse<g ref="char:EOLhyphen"/>qui non solet. Socra. Eccl. hist. lib. 7.</note> and for feare of persecution turne persecutors of others. Of all the twelve Apostles, eleven were Martyrs, and sure <hi>Peter</hi> lost twice as much credit and comfort too, by denyall, and re<g ref="char:EOLhyphen"/>fusing to suffer for Christ, as he got by cutting off <hi>Malchus</hi> eare. After the rate Religion goes now, the Primitive
+<pb n="14" facs="tcp:103488:10"/> Church could have raised an Army of Saints, but how should God then have had a Noble Army of Martyrs? It was not want of men among them, nor armes; they were not in Israels case of whom 'tis said, there was not a sword nor speare to be found, nor a smith in all the Land: No, no,<note place="margin">Heb. 11.</note>
+               <hi>Jam sumus Christiani,</hi> was their cry at the stake; they chose to suffer, their flesh was a free will offering as well as a burnt off<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing, or else they had offered nothing, they scorned any defence but Gods and his lawfull Magistrates, and thought the word Legion to be a name for Devills, not Christians. The Application shall be only thus much: Let no man that suffers, judge his cause bad by the successe, nor thinke the Gospel a Rose lesse sweete, because it growes on prickles,<note place="margin">Cant. 2.2.</note> as a Lilly among Thornes, so is my Beloved saith Christ. Looke not you pale, yee Sonnes of an afflicted Church, because your Mother lookes black, but looke at Jesus the Author and Finisher of your faith,<note place="margin">Heb. 12 2.</note> who endured the Crosse, and despised the shame, &amp;c.</p>
+            <p n="2">2. <hi>Looke not]</hi> with scorne and disdaine upon me, be<g ref="char:EOLhyphen"/>cause I am thus. Despise me not now I am low; and this was <hi>Davids</hi> complaint, <hi>they stand staring and looking upon me, and mine acquaintance stood a farre off;</hi> and <hi>Jobs</hi> with an<g ref="char:EOLhyphen"/>guish and bitternesse of soule in his 30 chapter:<note place="margin">Job 30.</note> I was (saith he in the nine and twentith) once when Gods candle shi<g ref="char:EOLhyphen"/>ned upon my head &amp;c. a rich man, for I wash't my steps in butter, and the rock poured me out rivers of oyle, v. 6. an honourable man. The young men saw me, and hid them<g ref="char:EOLhyphen"/>selves, and the aged stood up, v. 8.9. Nay more a good man, a brave Patriot (O that Nobles and Parliament men would read and doe) I delivered the poore that cryed, and made the Widdows heart sing for joy, v. 13.14. &amp;c. yet in the 30. 1. But now, <hi>They who are yonger then I, whose Fathers I would have disdained to have set with my shepheards dogges have me in derision.</hi> And this is a sore affliction under the Sun, which e<g ref="char:EOLhyphen"/>ven great ones groane under, when they are downe. <hi>Saul</hi> (though a King begged by the people, and given them by God, because poore, there were many who despised him,
+<pb n="15" facs="tcp:103488:10"/> and brought him no Presents, and wee our selves see a bet<g ref="char:EOLhyphen"/>ter then <hi>Saul</hi> (since the Sun hath looked upon him) made a byword,<note place="margin">1 Sam. 10.27.</note> and the Sonnes of Belial have not only crow<g ref="char:EOLhyphen"/>ned him with thornes, but would put a Reed into his Roy<g ref="char:EOLhyphen"/>all hand insteed of his golden Scepter. Thus when Cedars fall, doe the baser brambles put up their heads, and aspire government, and say, let us take the houses of God in pos<g ref="char:EOLhyphen"/>session. Oh the wretched extreames of deceitfull man! when thou art on a Mountaine (with Christ) they will spread their garments under thy feete, but when at the bar, then <hi>crucifige, tolle,</hi> away with him, this fellow is not fit to live. Well therefore might <hi>David</hi> pray, save me from re<g ref="char:EOLhyphen"/>proach and contempt, Psal. 119. and <hi>Mary</hi> sing her <hi>magni<g ref="char:EOLhyphen"/>ficat</hi> to God, for none but he will regard the low estate of his Servants: The Sonnes of men will wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h Gods Vine<g ref="char:EOLhyphen"/>gar mixe their owne gall, and give thee, when thou criest <hi>sitio:</hi> this is the second branch of the Churches request; but the worst is not yet.</p>
+            <p n="3">3. <hi>Looke not.]</hi> with delight; let not my paine prove your pleasure; rejoyce not O mine enemy, when I fall, I shall rise againe. There is a generation who are so farre from <hi>Davids</hi> spirit, who mourned &amp; sympathized when his enemies were sick and in distresse, as if they had beene his Mothers Sonnes, and from <hi>Jeremies</hi> watry head, which ran streames for the miseries of his Countrey, that they laugh, and cry so, so wee would have it, and with <hi>Davids</hi> hard hearted mockers rejoyce to see the Church mourne, and when her Sonnes haue falne by an unnaturall sword,<note place="margin">Nil habet In<g ref="char:EOLhyphen"/>faelix Pauper<g ref="char:EOLhyphen"/>tas dutius in se. Quam quod ri<g ref="char:EOLhyphen"/>diculos homi<g ref="char:EOLhyphen"/>nes facit.</note> have cryed out with <hi>Hannibal</hi> (when he saw a ditch full of mans bloud) <hi>O dignum spectaculum!</hi> This is a sinne as unnatu<g ref="char:EOLhyphen"/>rall, as unmanly a sinne as can be; for a man to clap the wing and crow (like <hi>Peters</hi> Cock) at a poore <hi>Peters</hi> fall, and as Vermine live upon sore places.</p>
+            <p>It is a sinne which Sathan hath kept as his last and shar<g ref="char:EOLhyphen"/>pest arrow, as having more poyson in it then death.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Menander.</note> If e<g ref="char:EOLhyphen"/>ver he emptied his deadly Quiver, it was when our bles<g ref="char:EOLhyphen"/>sed Lord hung as a marke for every shooter: First he
+<pb n="16" facs="tcp:103488:11"/> spends lies, slanders, false witnesse at him; then the whip, the purple, the spittle, the vineger and gall; then the nailes, the speare, the thornes, and last of all he brings out his <hi>forked tongues</hi> while his Mother, and <hi>Mary Mag<g ref="char:EOLhyphen"/>dalen,</hi> and <hi>John,</hi> and a few more stand below weeping; some cryed out, so ho, you King of the Jewes, come down now if you can, you sir that saved others, now save thy selfe: <hi>Eloi, Eloi,</hi> cries the Lord of Glory (such words as the Angels trembled at) they scoffe and quibble at the word; he calls <hi>Elias,</hi> say they. And of these arrowes (even bitter words) the world is full; but let them laugh on,<note place="margin">Prov. 1.26.</note> he that sits in Heaven will laugh them to scorne, the Lord shall have them in derision: Let such <hi>Ismaels</hi> know, that <hi>David</hi> could not forgive this, see how his soule rises, Psalm. 69. from the 20 to the 28. The Church in Babylon could not forgive this, Psalm. 137, and if the oppressed, and scorned in England be still derided, and made a by-word: Take heede yee that stand lest you fall, be not high minded, but feare; there are grieved spirits in the Land, (and store of them too) who though they have no armes, horses, men, money; yet can bring revenge by cries, the Lord will heare the oppressed, and avenge him: this is the third, the last and worst followes.</p>
+            <p n="4">4. <hi>Looke not.]</hi> Yee, yee of all others, my friends of my Sexe, of my Kindred, of my Religion, who ever doe, doe not you despise or rejoyce to see me. Above 20. wounds <hi>Caesar</hi> had in the Parliament at Rome given him; but none fetcht teares from him to mingle with his bloud, but his Sonne <hi>Brutus</hi> his ponyard. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; What my Son? What my Brother? Me thinkes I heare <hi>Abels</hi> speaking bloud say so. And <hi>David,</hi> what my <hi>Absolon</hi> rebell? My <hi>Michal</hi> mock me? And <hi>Job,</hi> what my Kinsmen, my Cou<g ref="char:EOLhyphen"/>zen <hi>Elephaz</hi> against me? And (to name no more) <hi>Jesus</hi> to <hi>Judas!</hi> What my Friend, my Treasurer?</p>
+            <p>It was not mine open enemy; but it was thou mine Ac<g ref="char:EOLhyphen"/>quaintance, my familiar friend &amp;c. Among the worst of Heathens and sinners are reckoned <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, men without
+<pb n="17" facs="tcp:103488:11"/> naturall affection, that shall in despite of nature and grace both (breaking the bands of one, and casting a way the cords of the other) make way through bowells, veines, bloud, Religion, all, to laugh at a Brothers ruine: thus doe people at their Ministers, Servants at their Masters, nay Children at their Fathers sufferings in these our flinty dayes: Oh thou Dove of Heaven, which camest downe upon meeke, mercifull, compassionate Jesus, descend once more up on hard hearted Christians; melt them, mollifie them, thaw their affections, make them to condole, and feele, and lament for the afflictions of <hi>Joseph.</hi> Lord make our English people at length to doe, as the Tribes of Israel did concerning their brethren the Benjamites, whom they had almost utterly cut off by an unnaturall though lawfull warre; they spent a whole day (when they saw such ha<g ref="char:EOLhyphen"/>vock made of precious bloud) in weeping religiously, Judg. 21.2.3. And they repented themselves for <hi>Benjamin,</hi> that the Lord had made such a breach among brethren, and there was not only an Act of Oblivion, but a restoring them to their Inheritance, whom formerly they had wa<g ref="char:EOLhyphen"/>sted:<note place="margin">Judg. 21.25.</note> These things were done also when there was no King in Israel, verse the last. And so I have done with the branches of the Churches request: Let me offer a few ar<g ref="char:EOLhyphen"/>guments in behalfe of Gods people; why others should not looke at them with any of those evill eyes which I have named, and briefely apply a few words, and that shall terminate the first Generall of the Text.</p>
+            <p n="1">1. <hi>Looke not upon me;</hi> for I am but <hi>Blackish;</hi> the old Latin translates it browne, the Greeke, made black, by ac<g ref="char:EOLhyphen"/>cident not willingly or naturally, as it is said the Creation is made subject unto bondage, Rom. 8.21.) not borne so; the Hebrew reades, somewhat black: And this is not a Gramaticall Criticisme; but it pleased the Holy Ghost to take a word (a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our <hi>Ainsworth</hi> observes) differing from that in the 5 verse, on purpose to diminish the signification, <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e should say, you that looke on me, I pray looke well o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and you will finde I am not so black as othres make
+<pb n="18" facs="tcp:103488:12"/> me, and I am glad it is no worse with me: so saith the Church even under the Iron yoke: It is the Lords mercy wee are not consumed. The Lord in the midst of judge<g ref="char:EOLhyphen"/>ments remembers mercy: The Church is often (alwaies indeede) <hi>sickish, faintish, feavourish, blackish,</hi> but still God deales in Diminutives, as dying, yet never dead, troubled on every side, yet not distressed, perplexed, yet not in de<g ref="char:EOLhyphen"/>spaire, persecuted, but not forsaken, cast downe, yet not de<g ref="char:EOLhyphen"/>stroyed: The Lord, saith the Psalmist, suffered not his <hi>whole displeasure</hi> to arise, if he lay one hand on us, the other is under us; if his children must take Physick, he writes the ounces, drammes, graines, scruples; puts in oyle to supple, as well as wine to search their woundes: He executes not the fiercenesse of his wrath: But when his enemies come forth, the Lord mixes a red, black, bloody, hellish potion for them, the ungodly shall not only drinke, but drinke it off, and suck the dregges, Psalm. Heere is the Churches glory, and Gods grace; that though the world looke on their sinnes as beames,<note place="margin">Deut. 32.5.</note> God lookes on them as moates: for their spots are not like the spots of others: And though the world looke on them as undone, lost, dead, gone quite black; yet they are indeede but browne, and if it were worse with them, yet never the worse for them, and that helps me to a second Argument.</p>
+            <p n="2">2. <hi>Looke not upon me;</hi> for a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> worst I am <hi>but black</hi> so the 5 verse, comlinesse makes amends for my colour; 'tis the blade not the hilt, that commends the sword; the Con<g ref="char:EOLhyphen"/>tents, not the cover that preferres the Bible, the Kirnell, not the shell that sells the Almond: The Ring is not worse gold, because it weares a Deaths head; and for this cause wee faint not (saith the Apostle) because though ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> out<g ref="char:EOLhyphen"/>ward man perish, yet the inward man is renewed day by day, 2 Cor. 4.16. A rich soule is better then a faire skinne, and the wise men thought not Christ the worse for lying in a manger, but fell downe and worshipped, Math. 1.13.</p>
+            <p>Sepulchres may be painted, so may Harlo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; dead signe-posts may have more oyle, and varnish; but the growing
+<pb n="19" facs="tcp:103488:12"/> Oake though his coate be rough, hath native s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n: <hi>Dives</hi> is clad in purple. <hi>Lazar<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ores, which thinke you is the better man?<note place="margin">Ecclesia non in parietibus consistit, sed in Dogmatum veritate. Je<g ref="char:EOLhyphen"/>rom. in Ps. 33.</note> Well may the true Church want the pompe, the state, the revenues, the Altars, the Crucifixes, &amp;c. Our mother is comely, fruitfull, whole, sound; hath all the Essentials, and Integrals of a Spouse, Beares chil<g ref="char:EOLhyphen"/>dren, preaches the word aright, no adulterate or cripled Sacraments, her faith sound, her worship true: In these things she is comely, though shee of Rome lookes at us and laughes at our blacknesse, as not a Church, because poorer, and chaster then her selfe. The same may be saide of any Saint. My brother art thou poore in estate, sickly in body, smutcht in thy name, crost in thy children, meane in thy gifts, called to the barre, sent to prison, appointed to death? O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>! such a black-bird may sing in a Cage, when Peacocks shall shrike onely; thou art at the worst, all this is but a blacke skin; He that is holy and upright, that hath the eyes of faith, the eares of obedience, the mouth of praise, the hands of charity, the feete of perseverance, the strait shoulders of patience, the back of humility, &amp;c. is no cripple, defiled hee may, deformed hee cannot bee. Afflictions may make him stoope, but crooked they cannot make him; the deepest Dy he can be dipt in, is but a black visage of death, and there is a <hi>Ne plus,</hi> O death where is thy sting?</p>
+            <p n="3">3. <hi>Looke not upon mee,</hi> &amp;c. For <hi>I would be so.</hi> It is good for me that I was afflicted. The Church like a shippe had rather be weather beaten at Sea, then wind-bound at shore.<note place="margin">1. <hi>Profit.</hi> Hoc habet proprium Ec<g ref="char:EOLhyphen"/>clesia, dum per sequitur, flo<g ref="char:EOLhyphen"/>ret; dum op<g ref="char:EOLhyphen"/>primitur, cres<g ref="char:EOLhyphen"/>cit, dum con<g ref="char:EOLhyphen"/>temnitur, pro<g ref="char:EOLhyphen"/>ficit &amp;c. Hil. de Trin. 2. <hi>Honour.</hi>
+               </note> Though like the Merchants vessell shee come from farre, yet the dangerous voyage brings her in laden with profit and honour: profit, the blackest soyle is the richest, the blackest fruit the sweetest; the afflicted man gaines know<g ref="char:EOLhyphen"/>ledge, knowledge experience, experience hope, hope patience, patience pitty, pitty charity, and a neck-lace of Diamonds more, which as they are found in the tawny Indies of troubles, so they shine most in the darke of di<g ref="char:EOLhyphen"/>stresse. And as it is profitable, so oftentimes honourable;
+<pb n="20" facs="tcp:103488:13"/> the Militant Church are Christs life-guard, and therefore the Apostle saith it is a glorious thing to be made confor<g ref="char:EOLhyphen"/>mable to the sufferings of Christ, and <hi>Vobi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> datum est,</hi> to you it is given not onely to suffer but dye, and a guift of ho<g ref="char:EOLhyphen"/>nour too, to have a wound in Gods cause, to drinke of Christs owne cup, to weare his livery, to be of his for<g ref="char:EOLhyphen"/>lorne hope. It is sayed, Heb. 11. of such that the World was not worthy of them; yet they went up and downe in sheep-skins and goats skins, &amp;c. This, this made the Martyrs of old endure the spoyling of their goods with joy, this made them embrace the faggot, as their first borne, and kisse the fl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me with shouting, <hi>Nec hoc fecit stu<g ref="char:EOLhyphen"/>por sed Amor, non decrat dolor, sed contemnebatur,</hi> saith Saint <hi>Bernard.</hi>
+               <note place="margin">Acts and Monuments.</note> This made Martyr <hi>Hunters</hi> mother kneele at her sonnes burning, and blesse God that he had honour<g ref="char:EOLhyphen"/>ed her to give her a Sonne, and take him againe for a sa<g ref="char:EOLhyphen"/>crifice: Yea, as <hi>Lactantius</hi> reports, this made even women and children to dare and defie their persecutors, as being Volunteers under the standard of the crosse.</p>
+            <p n="4">4. <hi>Looke not upon mee,</hi> &amp;c.] For <hi>I must bee so:</hi> There is no going neare, or by, but through many tribula<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions, &amp;c. The cup of afflictions is in Gods hand, there is no a<g ref="char:EOLhyphen"/>voiding it, Christ the head began to his followers, and it must go about. 2. Tim. 3.12. By the mothers side I must be <hi>Ben-oni</hi> before the Father make me <hi>Benjamin.</hi> Would you know why? The palme-tree must have weights laid on, to make it fruitfull; the Camomile must be troden, to make it thick; the Torch must be knockt to make it blaze; Frankincense must burne to make it smell; spices broken to give their sent; the earth broken to give her fruit; the Vine cut to make it beare; Linnen washt and beaten to make it cleane; the Sea tossed and troubled, else it would stinke; <hi>Noahs</hi> Arke must be lifted nearer Heaven by wa<g ref="char:EOLhyphen"/>ters; your children must goe to the schoole, else no learn<g ref="char:EOLhyphen"/>ing; and the Church of God now under age, must have the rod of afflictions for her good.</p>
+            <p n="5">5. Lastly, <hi>Looke not upon mee; For your selves may bee
+<pb n="21" facs="tcp:103488:13"/> so;</hi> and that probably, whether yee be <hi>friends</hi> or <hi>enemies:</hi>
+            </p>
+            <p n="1">1. If Foes judgement begins at the house of God, but it ends not there, but as the streames of the River, it takes in more as it glides, till it drowne Babylon, which did but wash Sion. If the greene tree be lopt, the dry one may feare to be cut downe: If the righteous scarcely be saved where shall the ungodly and sinners appear? shall the chil<g ref="char:EOLhyphen"/>dren weepe and the slave not bleed? yea rather, shall not the Judge of all doe righteously? The wicked (saith <hi>Da<g ref="char:EOLhyphen"/>vid, Psal.</hi> 37.13.) laugh at the righteous, but the Lord shall laugh at him, for he seeth that his day is coming; it seemes he hath his day, a whole one, a long one, a black and gloomy day. In one Chapter and in one verse I finde, The Begger dyed, the rich man also dyed and was buryed, <hi>Luke</hi> 16.22. Say therefore unto the enemy walk not so proudly,
+<q>
+                  <l>Quem dies vidit veniens superbum,</l>
+                  <l>Hunc dies vidit rediens jacentem.</l>
+               </q>
+            </p>
+            <p n="2">2. And say also to prospering Friends, walke not se<g ref="char:EOLhyphen"/>curely. <hi>Hodie mihi, cras tibi,</hi> point not with the reproach<g ref="char:EOLhyphen"/>full finger, nor looke with a scornefull eye. Affliction is the portion of Gods Children, let every childe looke for his share, every one shall have his messe, though perad<g ref="char:EOLhyphen"/>venture, <hi>Benjamin</hi> may have two. As the Apostle saide to <hi>Saphira (Acts</hi> 5.9.) behold the feet of them which bu<g ref="char:EOLhyphen"/>ryed thy Husband are at the doore, and shall carry out thee; So say I to all thriving, rich, pleasant, proud Chri<g ref="char:EOLhyphen"/>stians, who as the Prophet complaines, Kill Oxen, and Sheepe, and Wine is in their feasts, but they forget the af<g ref="char:EOLhyphen"/>fliction of <hi>Joseph;</hi> behold, the feet of judgement at the doore to seise on you also: methinkes I heare the Spouse in my Text, giving counsell to those standers by; My friends, have pity upon me, have pity, for the Lord hath looked upon me and I am sore afflicted; and if no other argument will move you, let this:<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Adagium G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aec.</note> I see now your Rosie cheeks, your Rubie lips, your sparkling eyes, your polisht browes, your azure temples, your Ivory neck, your deli<g ref="char:EOLhyphen"/>cate breasts, your whole skip beautifull: Thus, thus was I
+<pb n="22" facs="tcp:103488:14"/> not long since when the Sun smiled upon me, but beauty is fading, ere long those Roses may be blasted, which now but budded,<note place="margin">Timendum est, n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> nobis cadentibus surgat, qui no<g ref="char:EOLhyphen"/>bis stantibus irridetur: quamvis stare j<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m non no<g ref="char:EOLhyphen"/>vit, qui non stantem novit irridere. Greg. lib. 15. Mor.</note> those lips may, bee blew and cold which now are warme and ruddy, those eyes may have drops of water which have now sparkles of fire in them, your fore<g ref="char:EOLhyphen"/>head may be s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rrowed, your temples wasted, your neck humbled, your breasts have a wolfe in them, and your whole skin the black Jaundis, as well as mine; and there<g ref="char:EOLhyphen"/>fore looke not on me strangely, and at a distance, scorne<g ref="char:EOLhyphen"/>fully and with disdaine, voluptuously, and with delight; for the same measure which you mete to others, shall be measured to you againe. And this aptly invites mee to a word of application in behalfe of all the distressed, and oppressed Children of this our now blacke Mother, the Church of <hi>England.</hi>
+               <note place="margin">1. <hi>Application.</hi>
+               </note>
+            </p>
+            <p>Our Country man <hi>Brightman</hi> (one much admired by this age, for his rare gifts of Exposition on the Revelati<g ref="char:EOLhyphen"/>ons, for which he is styled according to his name, as <hi>Na<g ref="char:EOLhyphen"/>zienzen</hi> was by <hi>Theodoret,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) in his Com<g ref="char:EOLhyphen"/>ment on this Booke, travells alone in a new way, differ<g ref="char:EOLhyphen"/>ing from all others, and will have it to be a darke History of the state of the Church from <hi>Davids</hi> time, all along till <hi>Solomons</hi> end, and then a Prophesie of it till Christs time, and againe from thence to the Worlds end: and this verse and the fift he makes use of, to signifie the state of the Jewes under <hi>Rehoboams</hi> time, when ten Tribes had revol<g ref="char:EOLhyphen"/>ted from their King, and two onely remained under his Scepter: Those tenne (called here my Mothers sonnes) who deposed their Soveraigne for his evill Councellours sake,<note place="margin">1 Kin. 11.</note> did not onely make havocke of Gods Church and true worship by Idolatry, and a tolleration, but they turnd flat enemies to <hi>Judah</hi> and <hi>Benjamin</hi> for their Loyalty, and there was most bitter Wars among Brethren many yeares; That peacefull, and glorious Kingdome under <hi>Solomon,</hi> being now made the seate of civill Warre, and the stage of fraternall fury, and in stead of Reverend Priests and Levites,<note place="margin">1 King 12.</note>
+               <hi>Jeroboam</hi> their new Governour made any body a
+<pb n="23" facs="tcp:103488:14"/> Priest that would, &amp;c. Thus he expounds my Text, as if those two poore Loyall Tribes being now under their true King, though he but a petty one having lost ten Tribes of twelve and lying under the spoyle and rage of their angry bre<g ref="char:EOLhyphen"/>thren; and being now meane and miserable both in Church and State, should cry out, O looke not upon me, upon me poore <hi>Judah,</hi> because the Lord hath rent the Tribes off from me, and made me blacke with the afflictions, which my brethren of Israel have afflicted mee with, but rather mourne with me and for me, &amp;c.</p>
+            <p>But methinks if that learned man could make the words serve the Church of the Jewes under <hi>Rehoboams</hi> raigne, even I that have no learning may safely make them hold too true now under King <hi>Charles</hi> his raigne,<note place="margin">
+                  <hi>1.</hi> In the State.</note> as the lively character of Englands case both in <hi>Church</hi> and <hi>Sate.</hi> In our State, which sometimes was esteemed as compleate, proper, rich, beautifull a Queene, as the Sunne shined up<g ref="char:EOLhyphen"/>pon, for <hi>lyneaments and proportion</hi> of exact Symmetry, no head too great for the body, as under Tyrants, no body for the head, as under Anarchists; no monstrous excres<g ref="char:EOLhyphen"/>cency of Nobles, nor deficiency of Commons, but admi<g ref="char:EOLhyphen"/>rable well mixt Monarchy; <hi>for Wealth and plenty,</hi> beyond parallell, shee might sit and say with her in <hi>Esay</hi> 47. I am, and there is none besides mee, rich in man, money, Merchandize, corne, cattell, fieldes, houses, our fleeces being as wealthy as the golden one; City, Court, Coun<g ref="char:EOLhyphen"/>try, yea cottage, had his owne Vine or Figg-tree: <hi>For Lawes honoured,</hi> for <hi>Liberties envied;</hi> But now, alas! alas! <hi>Quia sol aspexit nos: Looke upon Magistracy,</hi> and behold the face of Majesty and true Royalty besmeared,<note place="margin">Lam. 4.20.</note> our King the Lords Anoynted, the breath of our nostrills, is led cap<g ref="char:EOLhyphen"/>tive, his sacred person detayned from the Firmament of his Throne, the Sunne is eclypsed, and the Starres onely give a duskie light, nor can it be day in England, till our <hi>Phae<g ref="char:EOLhyphen"/>bus</hi> (who is the Fountaine of light) sit againe in the midst of the inferiour heavens, and by his beames of So<g ref="char:EOLhyphen"/>veraignty, quicken and revive this be lighted and benum<g ref="char:EOLhyphen"/>med
+<pb n="24" facs="tcp:103488:15"/> Island. <hi>Casare venturo, phosphore redde diem.</hi> Behold blacknesse and thick clouds have carryed him away, and the faire <hi>Albion</hi> is not, cannot bee <hi>Olbion</hi> without him. The Queene the second great Luminary, is turned into darknesse; the Illustrious Prince our morning star shines in another Hemisphere; the royall Children (our bright <hi>Charles</hi>-Waine) obscured, and is not this blacknesse? The Kings Speare (the Militia) the Kings cruse of wa<g ref="char:EOLhyphen"/>ter (the Revenue) are not onely taken away, 2. Sam. 26, But the skirts of his Royall Robes are cut off, and hee left as a Prince in <hi>querpo,</hi> without his native <hi>Le-Roy lavisera,</hi> and which is worse, no mans heart is smote for this, as <hi>Davids</hi> was. 2. <hi>Sam.</hi> 24. But those whom the Law brands with Treason for clipping him lesse, but in a piece of silver, the Age allows to loppe him in his branches, and strike at in the root. O more then Indian blacknesse! the Hea<g ref="char:EOLhyphen"/>then are more obedient. Tell it not in <hi>Gath,</hi> publish it not in the streets of <hi>Askalon,</hi> lest the World forsweare Chri<g ref="char:EOLhyphen"/>stianity for our sakes,</p>
+            <p>And shall the Disciples fare better then their Lord? can the Fountaine be disturbed and the streames cleere? <hi>Looke upon the face of Nobility,</hi> and you will see what <hi>Solomon</hi> sawe among his vanities and vexations, Servants upon Horses, and Princes going on foote, <hi>Eccles.</hi> 10.7. Nobles in disdaine, and Judges despised, and they who were clad in Scarlet, doe now imbrace dunghills; and is not this a grosse blacknesse? A sore affliction, to see the eyes of Ju<g ref="char:EOLhyphen"/>stice with <hi>Sampsons</hi> put out, the lockes, the curled lockes cut off, and the Worthies of the Land, not onely grinde in the Mill of the multitude, but sometimes fetcht out to make sport. Looke upon the face of Merchandize, and behold yet more and more blacknesse; pale Famine will doe as much in the Reer, as blacke Warre hath done in the Van; how doth the City sit solitary,<note place="margin">Lam. 1.1.2.</note> how is shee become as a widow? she that was great among the Nations and Prin<g ref="char:EOLhyphen"/>cesse of the provinces, how is shee become tributary? Her friends have dealt treacherously with her, they are become
+<pb n="25" facs="tcp:103488:15"/> her enemies, the Thames languishes, the Sea mourneth, because of the Merchant, the Exchange is as little Royall as her King, and the splendor of Shops is vanisht. Dis<g ref="char:EOLhyphen"/>content dwells within the house, and distresse sits at every threshold; while oppression Coaches it in the streets; and is not faire <hi>London</hi> become black? O very black, scorne and reproach and shame hath seized upon her suddenly. And lastly, Looke upon her Handmaid, the Countrey, and behold she sits as poore <hi>Hagar (Gen.</hi> 21.15, 16.) in the wildernesse of misery. Her bottle of plenty is spent, and she sits weeping for her children ready to dye, and can get no more for them: the Gentry decay and pine away, all hospitality is gone; the blessing of the poore is gone, the Husbandman sweats first a hot fit in plowing and sowing, and then a cold sweat of feare, lest the horse and his Rider should come and devoure his and his childrens bread; <hi>bar<g ref="char:EOLhyphen"/>barus has segetes?</hi> Alas! whither shall the inhabitants of the Land flye? abroad the robbers spoyle, at home taxes doe eate like a Canker, what the Caterpillar leaves, the Locusts devoure, and is not this blacknesse? Surely the Land languishes.</p>
+            <p n="2">2. And if our earthy part were onely desolate, wee might say, Ear<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h to earth, that which is mortall must dye; but our Heaven is darkned at noone day, our Temple (the glory of Jerusalem) is laide waste: Gods house is made a den of theeves as well as our owne: As the Father threw away his Booke of humane learning,<note place="margin">Austen.</note>
+               <hi>Quia nomen Jesu non erat ibi,</hi> so for the losse of temporalls, rush? But <hi>Reg<g ref="char:EOLhyphen"/>num Caelorum vim patitur,</hi> in a different sense from Christs speech: Christs kingdome suffers violence, not to get in<g ref="char:EOLhyphen"/>to it as of old, but to get out of it. It is said when Christ was borne, that <hi>Augustus</hi> by a decree layd a Tax on all men; 'tis no bad newes to pay silver and finde a Saviour, but to lose goods and Gospell both, O intollerable! This is smutting, yea smiting God himselfe, and sure the rending the Temple and crucifying Christ were both in one day? But some may say, <hi>Quorsum haec?</hi> how prove you this? O
+<pb n="26" facs="tcp:103488:16"/> friend, I answer thee in the words of <hi>Cleophas (Luke</hi> 24.18.) Art thou onely a stranger in Israel, and hast not knowne the things which are come to passe? Thousands of the Churches eldest sonnes (the Clergie) are utterly undone, and the rest defrauded and debased by the basest of the people, even to astonishment; blacknesse hath seized on their persons, calling, patrimony, and above all, Gods Ordinances, and true worship.</p>
+            <p n="1">1. For their Persons, that of the Apostles is now in its fulnesse, 1. <hi>Cor.</hi> 4.9. <hi>We are a spectacle and a gazing stocke unto Angels and men.</hi>
+            </p>
+            <p n="2">2. For their Calling (high and heavenly as the Embas<g ref="char:EOLhyphen"/>sadors of Christ) O my God heare and helpe,) Away with these Black-coats, these troublers of Israel, &amp;c. This is the outcry of the multitude and their Leaders. Their charge is a Vineyard to be kept, as my T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xt saith, even the Lords owne Vineyard, an imployment of skill, of indu<g ref="char:EOLhyphen"/>stry; for which Saint <hi>Paul</hi> cryes, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Who is sufficient? But now from the ship, from the shop, from the stall, from the Awle, men, boyes, women, step up and Talke in the Congregation, as if Gods house (like the Capitoll) must be preserved by Geese; and in the interim learned and laborious men stand idle in the Market place against their wils God knowes, and goe not into the Vine<g ref="char:EOLhyphen"/>yard: <hi>Quia nemo conduxit, &amp;c.</hi> because none call them.</p>
+            <p n="3">3. For their Patrimony (Popish onely because rich) Oh, it is too too convenient a Vineyard as <hi>Naboths</hi> was; it is the Benefice hath put many out of thei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> office: the plumpe and ripe Grapes which have made so many Foxes preach in other mens Vineyards: Ask at po<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Vicaridges for a Sequestration, and finde one if you can; No, no, <hi>pe<g ref="char:EOLhyphen"/>riissent nisi periissent,</hi> many men keepe their Livings, be<g ref="char:EOLhyphen"/>cause their Livings cannot keepe them; and if the aimes of many men can hit, they may invert the saying of our Lord, and in stead of The zeale of thy house hath eaten us up, s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y Ou zeale hath eaten up thy house: Speake Saint <hi>Paul,</hi> Is Sacriledge no sinne? Yes, worse then Idolatr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>,
+<pb n="27" facs="tcp:103488:16"/>
+               <hi>Rom.</hi> 2. O Land more unjust then the raging Sea, who allowes her <hi>Fluctus decumanus,</hi> the Tenth wave bigger then the other nine.</p>
+            <p n="4">4. Last and worst of all, even Gods Ordinances and worship is blackt, not only with the coals of negligence, ignorance, lukewarmenes, profanenes;<note place="margin">Vide Mr. Ed<g ref="char:EOLhyphen"/>wards Gan<g ref="char:EOLhyphen"/>grena.</note> but with the hellish soot of Blasphemies. The blessed Trinity, the holy Bible, the Law, the G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>spell, the Sacraments, the Decalogue, the Lords owne prayer, are smeared with the venomous Inke of Pamphlets, and the poysons of Tongues in many Pul<g ref="char:EOLhyphen"/>pits.</p>
+            <p>Arise O Lord, arise in thy jealousie, and let not thy Ark be carryed captive, nor thy golden Candlesticks bee re<g ref="char:EOLhyphen"/>moved from us.</p>
+            <p>One thing more, and no more; If yet you aske, <hi>Quis haec,</hi> as well as <hi>Quorsum?</hi> Who hath made our faire Land so deformed? I must answer with the Spouse here; The Sunne, and the Sonnes in the Text, have done all this: For the Sun, the Lord of hosts is his name, he hath justly look<g ref="char:EOLhyphen"/>ed upon us, because we looked not up to him; and I dare take the boldnesse <hi>(da veniam Caesar imperator)</hi> in the name of our King, Nobles, Judges, Gentry, City, Countrey, whom the Lord hath so sorely afflicted, to stand up, and with humble <hi>Nehemiah (Chap.</hi> 9.34.) confesse: O our God, thou art just in all that is brought upon us, &amp;c Nei<g ref="char:EOLhyphen"/>ther have our Kings, ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inces, our Priests, our Fathers, harkened unto thy Commandements, &amp;c. Wee have sin<g ref="char:EOLhyphen"/>ned, what shall wee doe unto thee, O thou preserver of men? Yet even in midst of judgement, thou remembrest mercy. But for the Sonnes in the Text, Our Mothers sons (Christians, Protestants, Countreymen, Kinsemen, Bre<g ref="char:EOLhyphen"/>thren) have done it, <hi>quia Excanduerunt, &amp;c.</hi> Because they were angry with us. Englands Wars and Ruins, have been fathered upon Religion, Liberty, P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iviledges, Reformation and I know not what, but as <hi>Homer</hi> begins, Ile end.</p>
+            <q>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,</l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c.</l>
+            </q>
+            <pb n="28" facs="tcp:103488:17"/>
+            <p>'Twas anger, wrath, pride, revenge, which kindled these fires, whose smoake hath not onely blackt, but flames scortsht our Mothers face: 'Twas ager, 'tis anger (chiefly) hath done all this. O water, water, bring teares, you that stand by and see children distracted, not onely black<g ref="char:EOLhyphen"/>ing, but burning their Mother that bore them, bring teares of repentance, pity, charity, mercy, to wash off her staines and quench her flames; above all, Lord wash thou the Land in the blood of the Lambe, that so at length the rage of man may turne to thy praise; and thy Church now Mi<g ref="char:EOLhyphen"/>litant may be made Tryumphant, and after all her black<g ref="char:EOLhyphen"/>nesse by sins and sorrowes, appeare before thy Throne, as white as snow. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
